@@ -1,7 +1,7 @@
 # wakja
 
 <div align="center">
-  <img src="../assets/자른왁자배너.png" alt="wakja" />
+  <img src="../assets/wakjaBanner.png" alt="wakja" />
 </div>
 
 ### **왁자는 익명으로 가볍게 한마디 던지고, 대화가 이어지는 커뮤니티 서비스입니다.**
