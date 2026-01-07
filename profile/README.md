@@ -1,4 +1,4 @@
-# wakja
+# 왁자 | wakja
 
 <div align="center">
   <img src="../assets/wakjaBanner.png" alt="wakja" />
